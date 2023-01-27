@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="priority-queue" />
         <module name="stack" />
+        <module name="linked-list" />
         <module name="queue" />
       </profile>
     </annotationProcessing>
