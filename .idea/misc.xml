@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/priority-queue/pom.xml" />
         <option value="$PROJECT_DIR$/linked-list/pom.xml" />
         <option value="$PROJECT_DIR$/linear-search/pom.xml" />
+        <option value="$PROJECT_DIR$/binary-search/pom.xml" />
       </list>
     </option>
   </component>
